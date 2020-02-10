@@ -1,0 +1,6 @@
+C:\Users\Transfixed\Desktop\C-Sharp\C-SharpTestApp\obj\Debug\C-SharpTestApp.csprojAssemblyReference.cache
+C:\Users\Transfixed\Desktop\C-Sharp\C-SharpTestApp\bin\Debug\C-SharpTestApp.exe.config
+C:\Users\Transfixed\Desktop\C-Sharp\C-SharpTestApp\bin\Debug\C-SharpTestApp.exe
+C:\Users\Transfixed\Desktop\C-Sharp\C-SharpTestApp\bin\Debug\C-SharpTestApp.pdb
+C:\Users\Transfixed\Desktop\C-Sharp\C-SharpTestApp\obj\Debug\C-SharpTestApp.exe
+C:\Users\Transfixed\Desktop\C-Sharp\C-SharpTestApp\obj\Debug\C-SharpTestApp.pdb
