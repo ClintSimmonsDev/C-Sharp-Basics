@@ -1,0 +1,6 @@
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\MathAndAssignment_Tests\bin\Debug\MathAndAssignment_Tests.exe.config
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\MathAndAssignment_Tests\bin\Debug\MathAndAssignment_Tests.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\MathAndAssignment_Tests\obj\Debug\MathAndAssignment_Tests.csprojAssemblyReference.cache
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\MathAndAssignment_Tests\obj\Debug\MathAndAssignment_Tests.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\MathAndAssignment_Tests\obj\Debug\MathAndAssignment_Tests.pdb
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\MathAndAssignment_Tests\bin\Debug\MathAndAssignment_Tests.pdb
