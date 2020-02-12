@@ -1,0 +1,5 @@
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\ArraysAndLists\bin\Debug\ArraysAndLists.exe.config
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\ArraysAndLists\bin\Debug\ArraysAndLists.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\ArraysAndLists\bin\Debug\ArraysAndLists.pdb
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\ArraysAndLists\obj\Debug\ArraysAndLists.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\ArraysAndLists\obj\Debug\ArraysAndLists.pdb
