@@ -1,0 +1,6 @@
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Concatenate-Convert-Stringbuilder\bin\Debug\Concatenate-Convert-Stringbuilder.exe.config
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Concatenate-Convert-Stringbuilder\bin\Debug\Concatenate-Convert-Stringbuilder.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Concatenate-Convert-Stringbuilder\bin\Debug\Concatenate-Convert-Stringbuilder.pdb
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Concatenate-Convert-Stringbuilder\obj\Debug\Concatenate-Convert-Stringbuilder.csprojAssemblyReference.cache
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Concatenate-Convert-Stringbuilder\obj\Debug\Concatenate-Convert-Stringbuilder.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Concatenate-Convert-Stringbuilder\obj\Debug\Concatenate-Convert-Stringbuilder.pdb
