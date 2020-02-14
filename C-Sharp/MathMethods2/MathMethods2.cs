@@ -15,7 +15,7 @@ namespace MathMethods
         }
         public decimal Times6(decimal num2)
         {
-            num2 *=250;
+            num2 *= 250;
             return num2;
         }
         public int Times6(string num3)

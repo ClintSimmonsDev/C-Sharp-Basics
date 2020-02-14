@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{69B2D74A-6CA2-4757-8593-BF9E339459EA}</ProjectGuid>
+    <ProjectGuid>{BE0DC4BA-5879-4F5A-AD4F-EBE719C7FD66}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>MathMethods</RootNamespace>
-    <AssemblyName>MathMethods</AssemblyName>
+    <RootNamespace>MathMethods2</RootNamespace>
+    <AssemblyName>MathMethods2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\MathMethods2\MathClass2.cs">
-      <Link>MathClass2.cs</Link>
-    </Compile>
+    <Compile Include="MathMethods2.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
