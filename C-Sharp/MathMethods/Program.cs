@@ -10,16 +10,14 @@ namespace MathMethods
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Give me a number please, it's math time: \n");
-            int num1 = Convert.ToInt32(Console.ReadLine());
-            MathClass Adding = new MathClass();
-            Console.WriteLine(Adding.Add3k(num1));
+            MathClass2 Multiply = new MathClass2();
+            Console.WriteLine(Multiply.Times6(5));
 
-            MathClass Dividing = new MathClass();
-            Console.WriteLine(Dividing.DivideBy8(num1));
+            MathClass2 MoreMultiply = new MathClass2();
+            Console.WriteLine(Multiply.Times6(14.6538974m));
 
-            MathClass Multiplying = new MathClass();
-            Console.WriteLine(Multiplying.MultiplyBy365(num1));
+            MathClass2 Subtracting = new MathClass2();
+            Console.WriteLine(Subtracting.Times6("454"));
 
             Console.WriteLine("See what I did there?");
             Console.ReadLine();
