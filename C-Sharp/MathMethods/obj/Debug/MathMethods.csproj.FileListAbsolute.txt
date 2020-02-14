@@ -1,0 +1,6 @@
+C:\Users\Transfixed\source\repos\MathMethods\bin\Debug\MathMethods.exe.config
+C:\Users\Transfixed\source\repos\MathMethods\bin\Debug\MathMethods.exe
+C:\Users\Transfixed\source\repos\MathMethods\bin\Debug\MathMethods.pdb
+C:\Users\Transfixed\source\repos\MathMethods\obj\Debug\MathMethods.csprojAssemblyReference.cache
+C:\Users\Transfixed\source\repos\MathMethods\obj\Debug\MathMethods.exe
+C:\Users\Transfixed\source\repos\MathMethods\obj\Debug\MathMethods.pdb
