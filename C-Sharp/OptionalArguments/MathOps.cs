@@ -10,9 +10,7 @@ namespace OptionalArguments
     {
         public int MathStuff(int num1, int num2 = 88)
         {
-            
             return num1 + num2;
-
         }
     }
 }

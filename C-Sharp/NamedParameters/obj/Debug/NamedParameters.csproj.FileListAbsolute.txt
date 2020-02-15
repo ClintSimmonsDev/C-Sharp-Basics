@@ -1,0 +1,6 @@
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\NamedParameters\obj\Debug\NamedParameters.csprojAssemblyReference.cache
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\NamedParameters\bin\Debug\NamedParameters.exe.config
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\NamedParameters\bin\Debug\NamedParameters.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\NamedParameters\bin\Debug\NamedParameters.pdb
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\NamedParameters\obj\Debug\NamedParameters.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\NamedParameters\obj\Debug\NamedParameters.pdb
