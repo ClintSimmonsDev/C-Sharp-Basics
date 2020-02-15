@@ -1,0 +1,6 @@
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\OptionalArguments\bin\Debug\OptionalArguments.exe.config
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\OptionalArguments\bin\Debug\OptionalArguments.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\OptionalArguments\bin\Debug\OptionalArguments.pdb
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\OptionalArguments\obj\Debug\OptionalArguments.csprojAssemblyReference.cache
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\OptionalArguments\obj\Debug\OptionalArguments.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\OptionalArguments\obj\Debug\OptionalArguments.pdb
