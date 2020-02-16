@@ -17,6 +17,7 @@ namespace AbstractClasses
             //Calling Quit() Method on Employee object which inherits from IQuittable
             Employee Steve = new Employee();
             Steve.Quit(Steve);
+            Console.ReadLine();
         }
 
 
