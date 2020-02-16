@@ -8,8 +8,14 @@ namespace VoidAndOverloading
 {
     public class VoidClass
     {
-       //Void method
-        public void KoolMethod(int int1)
+        //Output Method
+        public void NumberStuff(out int x)
+        {
+            int cool = 500000000;
+            x = cool;
+        }
+            //Void method
+            public void KoolMethod(int int1)
         {
             int1 /= 2;
             Console.WriteLine(int1);
