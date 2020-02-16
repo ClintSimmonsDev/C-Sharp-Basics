@@ -10,13 +10,13 @@ namespace AbstractClasses
     {
         static void Main(string[] args)
         {
-            Employee newEmployee = new Employee() { firstName = "Sample", lastName = "Student" };
-            newEmployee.SayName();
+            //Employee newEmployee = new Employee() { firstName = "Sample", lastName = "Student" };
+            //newEmployee.SayName();
 
 
             //Calling Quit() Method on Employee object which inherits from IQuittable
-            //Employee Steve = new Employee();
-            //Steve.Quit(Steve);
+            Employee Steve = new Employee();
+            Steve.Quit(Steve);
         }
 
 
