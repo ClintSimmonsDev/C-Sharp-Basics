@@ -12,7 +12,13 @@ namespace AbstractClasses
         {
             Employee newEmployee = new Employee() { firstName = "Sample", lastName = "Student" };
             newEmployee.SayName();
-            Console.ReadLine();
+
+
+            //Calling Quit() Method on Employee object which inherits from IQuittable
+            //Employee Steve = new Employee();
+            //Steve.Quit(Steve);
+        }
+
 
     }
 }
