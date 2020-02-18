@@ -14,6 +14,7 @@ namespace Structs
             Number KoolNum = new Number();
             KoolNum.Amount = 88.50m;
             Console.WriteLine("The best amount to have is: $" + KoolNum.Amount);
+            Console.ReadLine();
         }
     }
 }
