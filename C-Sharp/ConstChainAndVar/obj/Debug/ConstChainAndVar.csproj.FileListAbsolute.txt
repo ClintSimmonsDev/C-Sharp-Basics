@@ -1,0 +1,6 @@
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\ConstChainAndVar\bin\Debug\ConstChainAndVar.exe.config
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\ConstChainAndVar\bin\Debug\ConstChainAndVar.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\ConstChainAndVar\bin\Debug\ConstChainAndVar.pdb
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\ConstChainAndVar\obj\Debug\ConstChainAndVar.csprojAssemblyReference.cache
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\ConstChainAndVar\obj\Debug\ConstChainAndVar.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\ConstChainAndVar\obj\Debug\ConstChainAndVar.pdb
