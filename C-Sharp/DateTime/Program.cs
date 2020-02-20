@@ -17,6 +17,7 @@ namespace DateTimes
             Console.WriteLine("Well just so you know, in " + userNum + " hours, it'll be...");
             DateTime newTime = rightNow.AddHours(userNum);
             Console.WriteLine(newTime);
+            Console.ReadLine();
         }
     }
 }
