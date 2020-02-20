@@ -8,6 +8,8 @@ namespace FileIO
     {
         static void Main(string[] args)
         {
+
+            DateTime dateTime = new DateTime(1981, 9, 12, 18, 58, 30);
             Console.WriteLine("Hey. Yeah you. I need a number.");
             string userNum = Console.ReadLine();
             File.WriteAllText(@"C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\FileIO\GreatestFile.txt", userNum);
