@@ -1,0 +1,6 @@
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\AbstractClasses\bin\Debug\AbstractClasses.exe.config
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\AbstractClasses\bin\Debug\AbstractClasses.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\AbstractClasses\bin\Debug\AbstractClasses.pdb
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\AbstractClasses\obj\Debug\AbstractClasses.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\AbstractClasses\obj\Debug\AbstractClasses.pdb
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\AbstractClasses\obj\Debug\AbstractClasses.csprojAssemblyReference.cache

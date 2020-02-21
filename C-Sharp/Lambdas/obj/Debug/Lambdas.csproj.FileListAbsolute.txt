@@ -1,0 +1,6 @@
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Lambdas\obj\Debug\Lambdas.csprojAssemblyReference.cache
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Lambdas\bin\Debug\Lambdas.exe.config
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Lambdas\bin\Debug\Lambdas.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Lambdas\bin\Debug\Lambdas.pdb
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Lambdas\obj\Debug\Lambdas.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Lambdas\obj\Debug\Lambdas.pdb

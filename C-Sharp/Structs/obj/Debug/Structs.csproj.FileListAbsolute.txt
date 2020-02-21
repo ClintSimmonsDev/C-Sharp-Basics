@@ -1,0 +1,6 @@
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Structs\bin\Debug\Structs.exe.config
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Structs\bin\Debug\Structs.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Structs\bin\Debug\Structs.pdb
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Structs\obj\Debug\Structs.csprojAssemblyReference.cache
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Structs\obj\Debug\Structs.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Structs\obj\Debug\Structs.pdb

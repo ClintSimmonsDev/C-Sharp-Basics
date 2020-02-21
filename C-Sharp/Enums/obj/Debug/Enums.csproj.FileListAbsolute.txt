@@ -1,0 +1,6 @@
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Enums\bin\Debug\Enums.exe.config
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Enums\bin\Debug\Enums.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Enums\bin\Debug\Enums.pdb
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Enums\obj\Debug\Enums.csprojAssemblyReference.cache
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Enums\obj\Debug\Enums.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Enums\obj\Debug\Enums.pdb

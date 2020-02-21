@@ -1,0 +1,6 @@
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Arrays-Loops-Lists\bin\Debug\Arrays-Loops-Lists.exe.config
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Arrays-Loops-Lists\bin\Debug\Arrays-Loops-Lists.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Arrays-Loops-Lists\bin\Debug\Arrays-Loops-Lists.pdb
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Arrays-Loops-Lists\obj\Debug\Arrays-Loops-Lists.csprojAssemblyReference.cache
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Arrays-Loops-Lists\obj\Debug\Arrays-Loops-Lists.exe
+C:\Users\Transfixed\Documents\GitHub\C-Sharp-Basics\C-Sharp\Arrays-Loops-Lists\obj\Debug\Arrays-Loops-Lists.pdb
