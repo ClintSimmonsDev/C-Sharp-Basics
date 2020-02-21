@@ -1,0 +1,13 @@
+C:\Users\Silverfox Studios\Desktop\C-Sharp\C-Sharp-Basics\C-Sharp\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\Silverfox Studios\Desktop\C-Sharp\C-Sharp-Basics\C-Sharp\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\Silverfox Studios\Desktop\C-Sharp\C-Sharp-Basics\C-Sharp\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\Silverfox Studios\Desktop\C-Sharp\C-Sharp-Basics\C-Sharp\ExceptionHandling\obj\Debug\ExceptionHandling2.csproj.CoreCompileInputs.cache
+C:\Users\Silverfox Studios\Desktop\C-Sharp\C-Sharp-Basics\C-Sharp\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\Silverfox Studios\Desktop\C-Sharp\C-Sharp-Basics\C-Sharp\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+C:\Users\Silverfox Studios\Desktop\C-Sharp\C-Sharp-Basics\C-Sharp\ExceptionHandling2\bin\Debug\ExceptionHandling.exe.config
+C:\Users\Silverfox Studios\Desktop\C-Sharp\C-Sharp-Basics\C-Sharp\ExceptionHandling2\bin\Debug\ExceptionHandling.exe
+C:\Users\Silverfox Studios\Desktop\C-Sharp\C-Sharp-Basics\C-Sharp\ExceptionHandling2\bin\Debug\ExceptionHandling.pdb
+C:\Users\Silverfox Studios\Desktop\C-Sharp\C-Sharp-Basics\C-Sharp\ExceptionHandling2\obj\Debug\ExceptionHandling2.csprojAssemblyReference.cache
+C:\Users\Silverfox Studios\Desktop\C-Sharp\C-Sharp-Basics\C-Sharp\ExceptionHandling2\obj\Debug\ExceptionHandling2.csproj.CoreCompileInputs.cache
+C:\Users\Silverfox Studios\Desktop\C-Sharp\C-Sharp-Basics\C-Sharp\ExceptionHandling2\obj\Debug\ExceptionHandling.exe
+C:\Users\Silverfox Studios\Desktop\C-Sharp\C-Sharp-Basics\C-Sharp\ExceptionHandling2\obj\Debug\ExceptionHandling.pdb
